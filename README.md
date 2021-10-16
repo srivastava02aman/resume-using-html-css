@@ -1,2 +1,1 @@
-# resume-using-html-css
-<image src = >
+# Resume Using HTML && CSS.
